@@ -1,6 +1,10 @@
 Online-Banking-System
 It was made using Spring Boot, Spring Security,Spring Data JPA, Spring Data REST,Database is in memory (H2).
 
+about
+
+database schema and data exist in schema.xml and data.xml 
+
 How to run & access the application
 
 The following accounts may be used:
