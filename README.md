@@ -8,6 +8,8 @@ database schema and data exist in schema.sql and data.sql
 
 How to run & access the application
 
+After build project run IbApplication 
+
 The following accounts may be used:
 Username: user1
 
