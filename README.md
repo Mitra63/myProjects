@@ -1,4 +1,4 @@
-Online-Banking-System
+sOnline-Banking-System
 It was made using Spring Boot, Spring Security,Spring Data JPA, Spring Data REST,Database is in memory (H2).
 
 about
@@ -19,7 +19,7 @@ Password: admin (has admin rights)
 Use cases illustrated
 Add a new client
 
-in postman add login request  with url localhost:8083/login and enter username and password in body and header
+in postman add login request  with url localhost:8083/login and enter username and password in request body and header
 /login request is for genereate a token for used in each requests.
 
 
