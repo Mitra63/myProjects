@@ -1,3 +1,6 @@
+Online-Banking-System
+It was made using Spring Boot, Spring Security,Spring Data JPA, Spring Data REST,Database is in memory (H2).
+
 How to run & access the application
 
 The following accounts may be used:
