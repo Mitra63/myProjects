@@ -1,4 +1,5 @@
-sOnline-Banking-System
+Online-Banking-System
+
 It was made using Spring Boot, Spring Security,Spring Data JPA, Spring Data REST,Database is in memory (H2).
 
 about
