@@ -3,7 +3,7 @@ It was made using Spring Boot, Spring Security,Spring Data JPA, Spring Data REST
 
 about
 
-database schema and data exist in schema.xml and data.xml 
+database schema and data exist in schema.sql and data.sql 
 
 How to run & access the application
 
